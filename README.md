@@ -1,7 +1,7 @@
 # Finger-vein-recognition
 A project on finger vein recognition
-##Enroll
+## Enroll
 Uses wide line detector and normalization to form templates
 
-##Match
+## Match
 match pixel by pixel
